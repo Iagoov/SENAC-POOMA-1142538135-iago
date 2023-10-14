@@ -58,11 +58,12 @@ public class CadastrarClientes extends Cliente {
                 break;
 
                 case 2:
-                    VisualizarEngajamento(vetor);
+                    GerenciarAtividades(vetor);
+
                 break;
 
                 case 3:
-                    GerenciarAtividades(vetor);
+                    VisualizarEngajamento(vetor);
                 break;
 
                 case 4:
